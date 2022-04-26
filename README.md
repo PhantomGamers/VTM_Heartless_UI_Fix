@@ -21,7 +21,7 @@ Fixes UI on ultrawide resolutions in Vampire The Masquerade - Heartless Lullaby
   
 ## Configuration
 
-After launching the game with the mod installed, edit `BepInEx\config\VTM_Heartless_UI_Fix.cfg` with your text editor of choice.
+After launching the game with the mod installed, edit `BepInEx\config\Heartless_UI_Fix.cfg` with your text editor of choice.
 
 ## Changelog
 
