@@ -6,7 +6,12 @@ Fixes UI on ultrawide resolutions in Vampire The Masquerade - Heartless Lullaby
 
 ### Before
 
+![VTM_Heartless_Lullaby_T0EK6c95wM](https://user-images.githubusercontent.com/844685/165217876-19cbe549-d844-4887-8b9d-80d0331b0aca.jpg)
+
 ### After
+
+![VTM_Heartless_Lullaby_VurlCR0s2k](https://user-images.githubusercontent.com/844685/165217892-32b6b96e-a816-463b-bc4b-0be84dc7a0e5.jpg)
+![VTM_Heartless_Lullaby_eFuJnCiM9U](https://user-images.githubusercontent.com/844685/165217901-a6851042-9d30-4094-8c7f-666d01eb1f91.jpg)
 
 ## Installation
 
